@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-gomobile bind -target=android -androidapi 31 .
+gomobile bind -target=android -androidapi 26 .
